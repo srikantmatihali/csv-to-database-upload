@@ -5,7 +5,6 @@ $csvfile = ""; $csvfile_name = "";
 $filter = "documents";
 $uploaddir= $uploaddirectory."data/";
 
-
 if($_POST){	
   if($_FILES['csvfile']){	
 	//upload csv file and grab data from this.

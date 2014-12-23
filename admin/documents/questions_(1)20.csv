@@ -1,0 +1,898 @@
+"1","0","find the odd one out.","0","0","<p><strong>Directions:</strong> Out of the five figures 1,2,3,4 and 5 four are similar in a certain way and thus form a group. However one figure is not like the other four. Choose the figure which is different from others:</p>
+
+<p>&nbsp;</p>
+<img src=""http://22feetlabs.com/project/infosys//data/q1.jpg"" />","4","0","1",,,,,"1","783dfd1651ed4241b96276d130584c31","0000-00-00 00:00:00","1"
+"2","0","find the odd one out.","0","0","<p><strong>Directions:</strong> Out of the five figures 1,2,3,4 and 5 four are similar in a certain way and thus form a group. However one figure is not like the other four. Choose the figure which is different from others:</p>
+
+<p>&nbsp;</p>
+<img src=""http://22feetlabs.com/project/infosys/data/q2.jpg"" />","4","0","1",,,,,"1","783dfd1651ed4241b96276d130584c31","0000-00-00 00:00:00","1"
+"3","0","find the odd one out.","0","0","<p><strong>Directions:</strong> Out of the five figures 1,2,3,4 and 5 four are similar in a certain way and thus form a group. However one figure is not like the other four. Choose the figure which is different from others:</p>
+
+<p>&nbsp;</p>
+<img src=""http://22feetlabs.com/project/infosys/data/q3.jpg"" />","4","0","1",,,,,"1","783dfd1651ed4241b96276d130584c31","0000-00-00 00:00:00","1"
+"4","0","find the odd one out.","0","0","<p><strong>Directions:</strong> Out of the five figures 1,2,3,4 and 5 four are similar in a certain way and thus form a group. However one figure is not like the other four. Choose the figure which is different from others:</p>
+
+<p>&nbsp;</p>
+<img src=""http://22feetlabs.com/project/infosys/data/q4.jpg"" />","4","0","1",,,,,"1","783dfd1651ed4241b96276d130584c31","0000-00-00 00:00:00","1"
+"5","0","find the odd one out.","0","0","<p><strong>Directions:</strong> Out of the five figures 1,2,3,4 and 5 four are similar in a certain way and thus form a group. However one figure is not like the other four. Choose the figure which is different from others:</p>
+
+<p>&nbsp;</p>
+<img src=""http://22feetlabs.com/project/infosys/data/q5.jpg"" />","4","0","1",,,,,"1","783dfd1651ed4241b96276d130584c31","0000-00-00 00:00:00","1"
+"6","0","How many bikes were sold after the bike D?","6","1","<p><strong>Directions:</strong> Read the following data and answer the questions</p> <br />
+<p>A dealer sold six Bikes &ndash; A, B, C, D, E and F, during a period of Monday to Saturday, one bike on each day.<br />
+(i). The bike C was sold at least before three bikes.<br />
+(ii). The bike F was sold on Tuesday.<br />
+(iii). Both the bikes B and E were sold at least before one bike.<br />
+(iv). The bike D was sold immediately after the bike C.<br />
+(v). At least four bikes were sold after the bike E.</p>","2","1","1","3","1","2","Can't say","1","71ab9b30e2e5529652a991d7bf2551fc","0000-00-00 00:00:00","1"
+"7","0","How many bikes were sold before the bike F?","6","2","<p><strong>Directions:</strong> Read the following data and answer the questions</p> <br />
+<p>A dealer sold six Bikes &ndash; A, B, C, D, E and F, during a period of Monday to Saturday, one bike on each day.<br />
+(i). The bike C was sold at least before three bikes.<br />
+(ii). The bike F was sold on Tuesday.<br />
+(iii). Both the bikes B and E were sold at least before one bike.<br />
+(iv). The bike D was sold immediately after the bike C.<br />
+(v). At least four bikes were sold after the bike E.</p>","2","1","1","2","1","3","None","1","9512a43efde02df6ec293e55f7c22e5a","0000-00-00 00:00:00","1"
+"8","0","The bike A was sold immediately after","6","3","<p><strong>Directions:</strong> Read the following data and answer the questions</p> <br />
+<p>A dealer sold six Bikes &ndash; A, B, C, D, E and F, during a period of Monday to Saturday, one bike on each day.<br />
+(i). The bike C was sold at least before three bikes.<br />
+(ii). The bike F was sold on Tuesday.<br />
+(iii). Both the bikes B and E were sold at least before one bike.<br />
+(iv). The bike D was sold immediately after the bike C.<br />
+(v). At least four bikes were sold after the bike E.</p>","2","1","1","Monday","Tuesday","Friday","Saturday","1","9da81ae9df62f0468d222d7d11687018","0000-00-00 00:00:00","1"
+"9","0","If Praveen is the person who purchased the bike sold on Wednesday, then the bike  purchased by him is","6","4","<p><strong>Directions:</strong> Read the following data and answer the questions</p> <br />
+<p>A dealer sold six Bikes &ndash; A, B, C, D, E and F, during a period of Monday to Saturday, one bike on each day.<br />
+(i). The bike C was sold at least before three bikes.<br />
+(ii). The bike F was sold on Tuesday.<br />
+(iii). Both the bikes B and E were sold at least before one bike.<br />
+(iv). The bike D was sold immediately after the bike C.<br />
+(v). At least four bikes were sold after the bike E.</p>","2","1","1","A","B","C","D","1","05c35da3952320cd846745161d1f331c","0000-00-00 00:00:00","1"
+"10","0","Which of the given statements is / are redundant to answer above question?","6","5","<p><strong>Directions:</strong> Read the following data and answer the questions</p> <br />
+<p>A dealer sold six Bikes &ndash; A, B, C, D, E and F, during a period of Monday to Saturday, one bike on each day.<br />
+(i). The bike C was sold at least before three bikes.<br />
+(ii). The bike F was sold on Tuesday.<br />
+(iii). Both the bikes B and E were sold at least before one bike.<br />
+(iv). The bike D was sold immediately after the bike C.<br />
+(v). At least four bikes were sold after the bike E.</p>","2","1","1","Only(i)","(ii) and (iii)","(i), (ii) and (iii)","All are necessary","1","13f78cf0748a941943e51a01a4280b33","0000-00-00 00:00:00","1"
+"11","0","<p>What is the value of x?<br />
+A. The LCM of x and 21 is 63 <br />
+B. The HCF of x and 21 is 3</p>","0","0","<p><strong>Questions are based on the following:</strong> Each question is followed by 2 statements A &amp; B mark,<br />
+1. If the question can be answered with the help of any one statement but not both.<br />
+2. If the question can be answered with the help of both the statements together.<br />
+3. If the question can be answered with the help of either of the statements.<br />
+4. If the question cannot be answered with the information provided.</p>","4","0","1",,,,,"1","cf5c885d58063e0cbac471e34e1bf363","0000-00-00 00:00:00","1"
+"12","0","<p>x, y, z are three consecutive positive integers. What are the values of these three integers?<br ?>
+A. xz = 7y - 1<br />
+B. x + z = 2y</p>","0","0","<p><strong>Questions are based on the following:</strong> Each question is followed by 2 statements A &amp; B mark,<br />
+1. If the question can be answered with the help of any one statement but not both.<br />
+2. If the question can be answered with the help of both the statements together.<br />
+3. If the question can be answered with the help of either of the statements.<br />
+4. If the question cannot be answered with the information provided.</p>","4","0","1",,,,,"1","cf5c885d58063e0cbac471e34e1bf363","0000-00-00 00:00:00","1"
+"13","0","<p>Is x - 3/x = 27<br />
+A. x2 = 9<br />
+B. x < -1</p>","0","0","<p><strong>Questions are based on the following:</strong> Each question is followed by 2 statements A &amp; B mark,<br />
+1. If the question can be answered with the help of any one statement but not both.<br />
+2. If the question can be answered with the help of both the statements together.<br />
+3. If the question can be answered with the help of either of the statements.<br />
+4. If the question cannot be answered with the information provided.</p>","4","0","1",,,,,"1","cf5c885d58063e0cbac471e34e1bf363","0000-00-00 00:00:00","1"
+"14","0","<p>Three positive odd integers are x, y and z. Find the numbers x, y, z.<br />
+A. Sum of last 2 numbers is 8.<br />
+B. Sum of first 2 numbers is 12.</p>","0","0","<p><strong>Questions are based on the following:</strong> Each question is followed by 2 statements A &amp; B mark,<br />
+1. If the question can be answered with the help of any one statement but not both.<br />
+2. If the question can be answered with the help of both the statements together.<br />
+3. If the question can be answered with the help of either of the statements.<br />
+4. If the question cannot be answered with the information provided.</p>","4","0","1",,,,,"1","cf5c885d58063e0cbac471e34e1bf363","0000-00-00 00:00:00","1"
+"15","0","<p>What is the area of the Quadrilateral ABCD<br/ >
+A. AB = 5 cms.<br />
+B. AC = 13 cms.</p>
+<img src=""http://22feetlabs.com/project/infosys/data/q15.png"" />","0","0","<p><strong>Questions are based on the following:</strong> Each question is followed by 2 statements A &amp; B mark,<br />
+1. If the question can be answered with the help of any one statement but not both.<br />
+2. If the question can be answered with the help of both the statements together.<br />
+3. If the question can be answered with the help of either of the statements.<br />
+4. If the question cannot be answered with the information provided.</p>","4","0","1",,,,,"1","5e8ff9bf55ba3508199d22e984129be6","0000-00-00 00:00:00","1"
+"16","0","Since the past five years, the price of the product that has depreciated the most is","16","1","<p><strong>Direction: </strong>Questions are based on the following graphs:</p>
+
+<p>The commodity price and the change in price in the past few years has been: (in US $)</p>
+
+<table border=""1"" cellpadding=""0"" cellspacing=""0"">
+	<tbody>
+		<tr>
+			<td style=""height:24px; width:124px"">
+			<p>Product</p>
+			</td>
+			<td style=""height:24px; width:104px"">
+			<p>Current Price</p>
+			</td>
+			<td style=""height:24px; width:104px"">
+			<p>1 year ago</p>
+			</td>
+			<td style=""height:24px; width:104px"">
+			<p>3 years ago</p>
+			</td>
+			<td style=""height:24px; width:93px"">
+			<p>5 years ago</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Rice (ton)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>380</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>370</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>415</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>455</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Wheat (bushel)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>2.52</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>3.39</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>4.77</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>3.73</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:21px; width:124px"">
+			<p>Gold (troy ounce)</p>
+			</td>
+			<td style=""height:21px; width:104px"">
+			<p>286</p>
+			</td>
+			<td style=""height:21px; width:104px"">
+			<p>290</p>
+			</td>
+			<td style=""height:21px; width:104px"">
+			<p>399</p>
+			</td>
+			<td style=""height:21px; width:93px"">
+			<p>392</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:22px; width:124px"">
+			<p>Silver (troy ounce)</p>
+			</td>
+			<td style=""height:22px; width:104px"">
+			<p>5.11</p>
+			</td>
+			<td style=""height:22px; width:104px"">
+			<p>5.79</p>
+			</td>
+			<td style=""height:22px; width:104px"">
+			<p>5.47</p>
+			</td>
+			<td style=""height:22px; width:93px"">
+			<p>5.25</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Coffee (pound)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.13</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.71</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.11</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>0.64</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Tea (pound)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>0.94</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.11</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>0.79</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>0.82</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+","2","1","1","Rice","Wheat","Gold","Silver","1","7c9b85948a69044dc81d11f90de0007c","0000-00-00 00:00:00","1"
+"17","0","How many more tons of rice can a person with 10,000 $ buy today as compared to 5 years  ago.","16","2","<p><strong>Direction: </strong>Questions are based on the following graphs:</p>
+
+<p>The commodity price and the change in price in the past few years has been: (in US $)</p>
+
+<table border=""1"" cellpadding=""0"" cellspacing=""0"">
+	<tbody>
+		<tr>
+			<td style=""height:24px; width:124px"">
+			<p>Product</p>
+			</td>
+			<td style=""height:24px; width:104px"">
+			<p>Current Price</p>
+			</td>
+			<td style=""height:24px; width:104px"">
+			<p>1 year ago</p>
+			</td>
+			<td style=""height:24px; width:104px"">
+			<p>3 years ago</p>
+			</td>
+			<td style=""height:24px; width:93px"">
+			<p>5 years ago</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Rice (ton)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>380</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>370</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>415</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>455</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Wheat (bushel)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>2.52</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>3.39</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>4.77</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>3.73</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:21px; width:124px"">
+			<p>Gold (troy ounce)</p>
+			</td>
+			<td style=""height:21px; width:104px"">
+			<p>286</p>
+			</td>
+			<td style=""height:21px; width:104px"">
+			<p>290</p>
+			</td>
+			<td style=""height:21px; width:104px"">
+			<p>399</p>
+			</td>
+			<td style=""height:21px; width:93px"">
+			<p>392</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:22px; width:124px"">
+			<p>Silver (troy ounce)</p>
+			</td>
+			<td style=""height:22px; width:104px"">
+			<p>5.11</p>
+			</td>
+			<td style=""height:22px; width:104px"">
+			<p>5.79</p>
+			</td>
+			<td style=""height:22px; width:104px"">
+			<p>5.47</p>
+			</td>
+			<td style=""height:22px; width:93px"">
+			<p>5.25</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Coffee (pound)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.13</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.71</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.11</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>0.64</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Tea (pound)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>0.94</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.11</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>0.79</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>0.82</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+","2","1","1","26.3 T","4.4 T","1.7 T","None of the above","1","be25f37172a867d718877072008cf38c","0000-00-00 00:00:00","1"
+"18","0","Five years back if an investor had invested 1000 $ in govt. securities which yielded an annualised return of 10% instead of buying gold, then he would today be richer by","16","3","<p><strong>Direction: </strong>Questions are based on the following graphs:</p>
+
+<p>The commodity price and the change in price in the past few years has been: (in US $)</p>
+
+<table border=""1"" cellpadding=""0"" cellspacing=""0"">
+	<tbody>
+		<tr>
+			<td style=""height:24px; width:124px"">
+			<p>Product</p>
+			</td>
+			<td style=""height:24px; width:104px"">
+			<p>Current Price</p>
+			</td>
+			<td style=""height:24px; width:104px"">
+			<p>1 year ago</p>
+			</td>
+			<td style=""height:24px; width:104px"">
+			<p>3 years ago</p>
+			</td>
+			<td style=""height:24px; width:93px"">
+			<p>5 years ago</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Rice (ton)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>380</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>370</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>415</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>455</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Wheat (bushel)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>2.52</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>3.39</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>4.77</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>3.73</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:21px; width:124px"">
+			<p>Gold (troy ounce)</p>
+			</td>
+			<td style=""height:21px; width:104px"">
+			<p>286</p>
+			</td>
+			<td style=""height:21px; width:104px"">
+			<p>290</p>
+			</td>
+			<td style=""height:21px; width:104px"">
+			<p>399</p>
+			</td>
+			<td style=""height:21px; width:93px"">
+			<p>392</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:22px; width:124px"">
+			<p>Silver (troy ounce)</p>
+			</td>
+			<td style=""height:22px; width:104px"">
+			<p>5.11</p>
+			</td>
+			<td style=""height:22px; width:104px"">
+			<p>5.79</p>
+			</td>
+			<td style=""height:22px; width:104px"">
+			<p>5.47</p>
+			</td>
+			<td style=""height:22px; width:93px"">
+			<p>5.25</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Coffee (pound)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.13</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.71</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.11</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>0.64</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Tea (pound)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>0.94</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.11</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>0.79</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>0.82</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+","2","1","1","729.6$","880.9$","610.2$","None of the above","1","8b95109ee6dabeb0bdd259e39443f5c4","0000-00-00 00:00:00","1"
+"19","0","The percentage increase in the price of tea one year ago as compared to 3 year ago is","16","4","<p><strong>Direction: </strong>Questions are based on the following graphs:</p>
+
+<p>The commodity price and the change in price in the past few years has been: (in US $)</p>
+
+<table border=""1"" cellpadding=""0"" cellspacing=""0"">
+	<tbody>
+		<tr>
+			<td style=""height:24px; width:124px"">
+			<p>Product</p>
+			</td>
+			<td style=""height:24px; width:104px"">
+			<p>Current Price</p>
+			</td>
+			<td style=""height:24px; width:104px"">
+			<p>1 year ago</p>
+			</td>
+			<td style=""height:24px; width:104px"">
+			<p>3 years ago</p>
+			</td>
+			<td style=""height:24px; width:93px"">
+			<p>5 years ago</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Rice (ton)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>380</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>370</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>415</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>455</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Wheat (bushel)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>2.52</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>3.39</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>4.77</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>3.73</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:21px; width:124px"">
+			<p>Gold (troy ounce)</p>
+			</td>
+			<td style=""height:21px; width:104px"">
+			<p>286</p>
+			</td>
+			<td style=""height:21px; width:104px"">
+			<p>290</p>
+			</td>
+			<td style=""height:21px; width:104px"">
+			<p>399</p>
+			</td>
+			<td style=""height:21px; width:93px"">
+			<p>392</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:22px; width:124px"">
+			<p>Silver (troy ounce)</p>
+			</td>
+			<td style=""height:22px; width:104px"">
+			<p>5.11</p>
+			</td>
+			<td style=""height:22px; width:104px"">
+			<p>5.79</p>
+			</td>
+			<td style=""height:22px; width:104px"">
+			<p>5.47</p>
+			</td>
+			<td style=""height:22px; width:93px"">
+			<p>5.25</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Coffee (pound)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.13</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.71</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.11</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>0.64</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Tea (pound)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>0.94</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.11</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>0.79</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>0.82</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+","2","1","1","40.50%","28.80%","16.10%","None of the above","1","8dbd817231bdac4b12a78235cd793d51","0000-00-00 00:00:00","1"
+"20","0","Five years ago, Rs. 16 = 1 US $ as compared to Rs. 42 = 1 US $ today under these circumstances, the price of wheat is Rs. has","16","5","<p><strong>Direction: </strong>Questions are based on the following graphs:</p>
+
+<p>The commodity price and the change in price in the past few years has been: (in US $)</p>
+
+<table border=""1"" cellpadding=""0"" cellspacing=""0"">
+	<tbody>
+		<tr>
+			<td style=""height:24px; width:124px"">
+			<p>Product</p>
+			</td>
+			<td style=""height:24px; width:104px"">
+			<p>Current Price</p>
+			</td>
+			<td style=""height:24px; width:104px"">
+			<p>1 year ago</p>
+			</td>
+			<td style=""height:24px; width:104px"">
+			<p>3 years ago</p>
+			</td>
+			<td style=""height:24px; width:93px"">
+			<p>5 years ago</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Rice (ton)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>380</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>370</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>415</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>455</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Wheat (bushel)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>2.52</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>3.39</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>4.77</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>3.73</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:21px; width:124px"">
+			<p>Gold (troy ounce)</p>
+			</td>
+			<td style=""height:21px; width:104px"">
+			<p>286</p>
+			</td>
+			<td style=""height:21px; width:104px"">
+			<p>290</p>
+			</td>
+			<td style=""height:21px; width:104px"">
+			<p>399</p>
+			</td>
+			<td style=""height:21px; width:93px"">
+			<p>392</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:22px; width:124px"">
+			<p>Silver (troy ounce)</p>
+			</td>
+			<td style=""height:22px; width:104px"">
+			<p>5.11</p>
+			</td>
+			<td style=""height:22px; width:104px"">
+			<p>5.79</p>
+			</td>
+			<td style=""height:22px; width:104px"">
+			<p>5.47</p>
+			</td>
+			<td style=""height:22px; width:93px"">
+			<p>5.25</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Coffee (pound)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.13</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.71</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.11</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>0.64</p>
+			</td>
+		</tr>
+		<tr>
+			<td style=""height:17px; width:124px"">
+			<p>Tea (pound)</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>0.94</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>1.11</p>
+			</td>
+			<td style=""height:17px; width:104px"">
+			<p>0.79</p>
+			</td>
+			<td style=""height:17px; width:93px"">
+			<p>0.82</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+","2","1","1","increased by 59.6%","decreased by 59.6%","increased by 77.6%","decreased by 77.6%","1","5ce2c33cfebfab52ee2bf7422095cab7","0000-00-00 00:00:00","1"
+"21","0","Who is sitting midway between E and H?","21","1","<p><strong>Directions: Read the following data and answer the questions</strong><br />
+(i). Eleven students A, B, C, D, E, F, G, H, I, J and K are sitting in the first row of a class facing the teacher.<br />
+(ii). D, who is on the immediate left of F, is second to the right of C.<br />
+(iii). A is second to the right of E, who is at one of the ends.<br />
+(iv). J is the immediate neighbour of A and B and third to the left of G.<br />
+(v). H is on the immediate left of D and third to the right of I.</p>","2","1","2","J","B","I","G","1","9a6aae2b5cc74641e009a0d1ff07f852","0000-00-00 00:00:00","1"
+"22","0","Which of the following statements is not true in the context of the above sitting arrangements?","21","2","<p><strong>Directions: Read the following data and answer the questions</strong><br />
+(i). Eleven students A, B, C, D, E, F, G, H, I, J and K are sitting in the first row of a class facing the teacher.<br />
+(ii). D, who is on the immediate left of F, is second to the right of C.<br />
+(iii). A is second to the right of E, who is at one of the ends.<br />
+(iv). J is the immediate neighbour of A and B and third to the left of G.<br />
+(v). H is on the immediate left of D and third to the right of I.</p>","2","1","2","There are seven students sitting between K and D.","G is the immediate neighbour of I and C.","H is the immediate neighbour of d and F.","K is between E and A.","1","047a6e7c1a7f230903a1bf23aeed91fe","0000-00-00 00:00:00","1"
+"23","0","To obtain the respective seats of all the persons which clue given above is superfluous?","21","3","<p><strong>Directions: Read the following data and answer the questions</strong><br />
+(i). Eleven students A, B, C, D, E, F, G, H, I, J and K are sitting in the first row of a class facing the teacher.<br />
+(ii). D, who is on the immediate left of F, is second to the right of C.<br />
+(iii). A is second to the right of E, who is at one of the ends.<br />
+(iv). J is the immediate neighbour of A and B and third to the left of G.<br />
+(v). H is on the immediate left of D and third to the right of I.</p>","2","1","2","Clue (i)","Clue (ii)","Clue (iii)","None of these","1","dcb95db85690dee1170bdb0942b6a46e","0000-00-00 00:00:00","1"
+"24","0","Besides 'E', who among the following is at the extreme end?","21","4","<p><strong>Directions: Read the following data and answer the questions</strong><br />
+(i). Eleven students A, B, C, D, E, F, G, H, I, J and K are sitting in the first row of a class facing the teacher.<br />
+(ii). D, who is on the immediate left of F, is second to the right of C.<br />
+(iii). A is second to the right of E, who is at one of the ends.<br />
+(iv). J is the immediate neighbour of A and B and third to the left of G.<br />
+(v). H is on the immediate left of D and third to the right of I.</p>","2","1","2","K","F","B","None of these","1","53fb3dd4c9586562cf9211e682a57fc8","0000-00-00 00:00:00","1"
+"25","0","Which of the following groups is at the left of I?","21","5","<p><strong>Directions: Read the following data and answer the questions</strong><br />
+(i). Eleven students A, B, C, D, E, F, G, H, I, J and K are sitting in the first row of a class facing the teacher.<br />
+(ii). D, who is on the immediate left of F, is second to the right of C.<br />
+(iii). A is second to the right of E, who is at one of the ends.<br />
+(iv). J is the immediate neighbour of A and B and third to the left of G.<br />
+(v). H is on the immediate left of D and third to the right of I.</p>","2","1","2","AJB","GCH","HDF","None of these","1","8e70fec6414fbd319210075bfb673847","0000-00-00 00:00:00","1"
+"26","0","<p>Statements:<br />
+1. Some romeos are cheats.<br />
+2. All cheats are smart.</p>
+
+<p>Conclusions:<br />
+I. Some romeos are smart.<br />
+II. Some smart people are romeos.<br />
+III. All romeos are smart.<br />
+IV. All smart people are cheats.</p>","26","1","<p><strong>Directions:</strong> Given below are 2 statements followed by 4 conclusions, pick up the correct option.</p>","3","1","2","Only I and II follow","Only II follows"," II, III, IV follow","II, III, IV follow","1","410ccade97e80e98b35da29cfa58db39","0000-00-00 00:00:00","1"
+"27","0","<p>Statements:<br />
+1. Some Indians won gold in Centre Fire Pistol Event.<br />
+2. All Centre Fire Pistol Events are part of Commonwealth shooting championship.</p>
+<p>Conclusions:<br />
+I. Some romeos are smart.<br />
+II. Some smart people are romeos.<br />
+III. All romeos are smart.<br />
+IV. All smart people are cheats.</p>","26","2","<p><strong>Directions:</strong> Given below are 2 statements followed by 4 conclusions, pick up the correct option.</p>","3","1","2","I and II follow","I and IV follow ","I, II, IV follow ","none follow","1","32c93d89ea08dfd7674856fafd420673","0000-00-00 00:00:00","1"
+"28","0","<p>Statements:<br />
+1. All Indians condemned US act of not granting visa to Narendra Modi.<br />
+2. The US act of not granting visa is undiplomatic.</p>
+<p>Conclusions:<br />
+I. Some romeos are smart.<br />
+II. Some smart people are romeos.<br />
+III. All romeos are smart.<br />
+IV. All smart people are cheats.</p>","26","3","<p><strong>Directions:</strong> Given below are 2 statements followed by 4 conclusions, pick up the correct option.</p>","3","1","2","I follow","II follows ","IV follows ","None of them","1","91cb14676fadefe113f47cf0102fad33","0000-00-00 00:00:00","1"
+"29","0","<p>Statements:<br />
+1. All woollens are animal products.<br />
+2. Some animal products are non veg.</p>
+<p>Conclusions:<br />
+I. Some romeos are smart.<br />
+II. Some smart people are romeos.<br />
+III. All romeos are smart.<br />
+IV. All smart people are cheats.</p>","26","4","<p><strong>Directions:</strong> Given below are 2 statements followed by 4 conclusions, pick up the correct option.</p>","3","1","2","I and II follow","Only I follow ","III and IV follow "," None of these","1","32c93d89ea08dfd7674856fafd420673","0000-00-00 00:00:00","1"
+"30","0","<p>Statements:<br />
+1. Some commandos of SFF are females.<br />
+2. No female is commandos in any other army troop.</p>
+<p>Conclusions:<br />
+I. Some romeos are smart.<br />
+II. Some smart people are romeos.<br />
+III. All romeos are smart.<br />
+IV. All smart people are cheats.</p>","26","5","<p><strong>Directions:</strong> Given below are 2 statements followed by 4 conclusions, pick up the correct option.</p>","3","1","2","I and II follow","IV follows","II and IV follows","Only III follows","1","32c93d89ea08dfd7674856fafd420673","0000-00-00 00:00:00","1"
+"31","0","Identify the correct sentence","0","0",,"3","0","3","Fortunately, her parents are blissfully unaware of what was going on.","Her parents, fortunately were blissfully unaware of what is going around","Fortunately, her parents were blissfully unaware of what was going on.","Her parents , fortunately were not aware blissfully of what was going on.","1","d3ea8ca438046ebc9cd5b82332b18719","0000-00-00 00:00:00","1"
+"32","0","Identify the correct sentence","0","0",,"3","0","3","Perhaps some day it is going to be pleasant to look at these things.","Someday perhaps it may be pleasant to look for these things.","Perhaps one day it must be pleasant to look out on these things.","Perhaps someday it will be pleasant to look back on these things.","1","fd843bcdb070e4407be45f5f44af7997","0000-00-00 00:00:00","1"
+"33","0","Identify the correct sentence","0","0",,"3","0","3","The children wouldn't answer him, but he wasn't annoyed, as he put it down to shyness.","He wasn't annoyed when the children couldn't answer him, as he put it to 	his shyness.","The children not answering him didn't annoy him as he knew they were shy.","Shyness made children not to answer him and he was not angry with them.","1","6213c98daf6984a646fe068959ae3789","0000-00-00 00:00:00","1"
+"34","0","Identify the correct sentence","0","0",,"3","0","3","The coach stops at the principal hotels to pick up tourists only if this has arranged in advance.","The tourists will be picked up at principal hotels in a coach if it is arranged in advance prior to departure.","The coach stops at the principal hotels to pick up tourists if prior arrangements have been made. ","The coach stops at principle hotels to pick tourists up who have priorly arranged this in advance.","1","47e1bb3255f77b951f59a79bfaf46345","0000-00-00 00:00:00","1"
+"35","0","Identify the correct sentence","0","0",,"3","0","3","There is often a spectators’ balcony at airports, where people can watch the planes take off and land.","There is often a spectators' balcony at the airports, where people can watch the planes taking off and land.","There often is a spectator's balcony at airports, where people watch planes take off and land.","Often the spectators' balcony at airports is for people to watch planes land and takeoff.","1","04fa619aaf2798ca574ade846e239661","0000-00-00 00:00:00","1"
+"36","0","Identify the correct sentence","0","0",,"3","0","3","The man who was waiting on us seemed very inexperienced: he got all our orders cooked up.","The man who waited for us seemed very inexperienced; he got all our orders wrong.","Being inexperienced he mixed up all our orders while he waited on us.","The man who waited on us seemed very inexperienced; he got all our orders mixed up.","1","a901a08fee22cfe0fb3ab274cdb395d4","0000-00-00 00:00:00","1"
+"37","0","Identify the correct sentence","0","0",,"3","0","3","The exhibition in the Museum of Modern Art finished by Saturday.","The exhibition at the Museum of Modern Art finished on Saturday","The exhibition from the Museum of Modern Art is finished on Saturday","The exhibition of the Museum of Modern Art was finished on Saturday.","1","6754a20566817e7b6c76b1cd9e9976b8","0000-00-00 00:00:00","1"
+"38","0","Identify the correct sentence","0","0",,"3","0","3","We have no issues if you have guests for the party.","We have no problems if you want to bring guests for the party.","There will be no problem for us if you have to bring guests in the party.","We have no issues if you want to bring your guests to the party.","1","63b7c2d34cb3e46fba2f197d2103f050","0000-00-00 00:00:00","1"
+"39","0","<p>Indian students now commit suicide <ins>at a rate rivalling farmers.</ins></p>","39","1","<p>In each of the following sentences, some part of the sentence or the entire sentence is underlined. Beneath each sentence you will find four ways of phrasing the underlined part. This is a test of correctness and effectiveness of expression. In choosing answers, follow the requirements of standard written English, that is, pay attention to grammar, choice of words, and sentence construction. Choose the answer that expresses most effectively what is presented in the original sentence; this answer should be clear and exact, without awkwardness, ambiguity or redundancy.</p>","3","1","3","at a rate to rival farmers.","at a rate rivalling that of farmers.","at a rate rivalling with farmers.","in a rate  rivalling farmers.","1","365899db81e2419ffdb0709b573daa3f","0000-00-00 00:00:00","1"
+"40","0","<p>The main rationale given by the principal and staff in favour of the camera system <ins>is that they</ins> will improve discipline.</p>","39","2","<p>In each of the following sentences, some part of the sentence or the entire sentence is underlined. Beneath each sentence you will find four ways of phrasing the underlined part. This is a test of correctness and effectiveness of expression. In choosing answers, follow the requirements of standard written English, that is, pay attention to grammar, choice of words, and sentence construction. Choose the answer that expresses most effectively what is presented in the original sentence; this answer should be clear and exact, without awkwardness, ambiguity or redundancy.</p>","3","1","3","is that they would","was that they will","is that they would have","is that it will","1","56ced3809f0f781cd09b30e81d2675e5","0000-00-00 00:00:00","1"
+"41","0","<p>Instead of sinking huge sums in new irrigation projects, <ins>existing systems that have fallen into disuse must be turned around by the government.</ins></p>","39","3","<p>In each of the following sentences, some part of the sentence or the entire sentence is underlined. Beneath each sentence you will find four ways of phrasing the underlined part. This is a test of correctness and effectiveness of expression. In choosing answers, follow the requirements of standard written English, that is, pay attention to grammar, choice of words, and sentence construction. Choose the answer that expresses most effectively what is presented in the original sentence; this answer should be clear and exact, without awkwardness, ambiguity or redundancy.</p>","3","1","3","existing system that will have fallen into disuse must be turned around by the government.","existence of the systems that have fallen into disuse must be turned around by the government.","the government must turn around existing systems that have fallen into disuse.","existing system that would have fallen into disuse must be turned around by the government.","1","d3d36e7527a2be6a26a3cd4d7e75d69c","0000-00-00 00:00:00","1"
+"42","0","<p>Although Delhi didn&#39;t quite succeed as a world-class metropolis, <ins>its airports could probably do so</ins> in a few years from now.</p>","39","4","<p>In each of the following sentences, some part of the sentence or the entire sentence is underlined. Beneath each sentence you will find four ways of phrasing the underlined part. This is a test of correctness and effectiveness of expression. In choosing answers, follow the requirements of standard written English, that is, pay attention to grammar, choice of words, and sentence construction. Choose the answer that expresses most effectively what is presented in the original sentence; this answer should be clear and exact, without awkwardness, ambiguity or redundancy.</p>","3","1","3","its airports could do so","those airports could do so","its airports can do so","their airports are doing so.","1","4079bea99fcf75a4977e4c2e1097915d","0000-00-00 00:00:00","1"
+"43","0","<p>The runaway growth of mobile connections <ins>have lead to a steep increase</ins> in network traffic.</p>","39","5","<p>In each of the following sentences, some part of the sentence or the entire sentence is underlined. Beneath each sentence you will find four ways of phrasing the underlined part. This is a test of correctness and effectiveness of expression. In choosing answers, follow the requirements of standard written English, that is, pay attention to grammar, choice of words, and sentence construction. Choose the answer that expresses most effectively what is presented in the original sentence; this answer should be clear and exact, without awkwardness, ambiguity or redundancy.</p>","0","1","3","has led to a steep increase","have led for a steep increase","would go for a steep increase","lead forward a steep increase","1","160b74abb949f9c1a1bbf2a0e012506c","0000-00-00 00:00:00","1"
+"44","0","<p>The intense competition among banks to offer ever <ins>higher interest rates to depositors are bearing fruit.</ins></p>","39","6","<p>In each of the following sentences, some part of the sentence or the entire sentence is underlined. Beneath each sentence you will find four ways of phrasing the underlined part. This is a test of correctness and effectiveness of expression. In choosing answers, follow the requirements of standard written English, that is, pay attention to grammar, choice of words, and sentence construction. Choose the answer that expresses most effectively what is presented in the original sentence; this answer should be clear and exact, without awkwardness, ambiguity or redundancy.</p>","3","1","3","higher interest rates for depositors are of bearing fruit.","higher interest rates on depositors would have to be bearing fruit.","higher interest rates to depositors is bearing fruit.","higher interest rates of depositors were bearing fruit.","1","f700d9a157cb16abd33e8a8d7f3679ef","0000-00-00 00:00:00","1"
+"45","0","<p>Prior to the partition <ins>in Pakistan, the Punjab National Bank had a presence.</ins></p>","39","7","<p>In each of the following sentences, some part of the sentence or the entire sentence is underlined. Beneath each sentence you will find four ways of phrasing the underlined part. This is a test of correctness and effectiveness of expression. In choosing answers, follow the requirements of standard written English, that is, pay attention to grammar, choice of words, and sentence construction. Choose the answer that expresses most effectively what is presented in the original sentence; this answer should be clear and exact, without awkwardness, ambiguity or redundancy.</p>","3","1","3","Punjab National Bank had a presence in Pakistan.","Punjab National Bank has had a presence at Pakistan.","In Pakistan, Punjab National Bank should have a presence.","For Pakistan, Punjab National Bank may have a presence.","1","0f5618264c75a3c5d646923860f0e3f8","0000-00-00 00:00:00","1"
+"46","0","<p>The government issued licences for private retail in April 2002, after<ins> the administered price mechanism was dismantled.</ins></p>","39","8","<p>In each of the following sentences, some part of the sentence or the entire sentence is underlined. Beneath each sentence you will find four ways of phrasing the underlined part. This is a test of correctness and effectiveness of expression. In choosing answers, follow the requirements of standard written English, that is, pay attention to grammar, choice of words, and sentence construction. Choose the answer that expresses most effectively what is presented in the original sentence; this answer should be clear and exact, without awkwardness, ambiguity or redundancy.</p>","3","1","3","the administering of the price mechanism was dismantled.","the administered price mechanism had become dismantled.","the administered price mechanism is dismantled.","the administered price mechanism had been dismantled.","1","00e8428ed2bb6767881eea664adde263","0000-00-00 00:00:00","1"
+"47","0","When one biological weapon is detonated it has no specific target but it can and does affect any person within its impact radius, this means that it ___________kills innocent civilians including women and children.","0","0","Directions: Fill in the blank with the correct option that fits in grammatically and logically.","3","0","3","Invariably","Instantly","Indiscriminately","inadvertently","1","caeefcf90c8cad548577ecab6158789e","0000-00-00 00:00:00","1"
+"48","0","Since several analyses of archaic human bones have proven that people have suffered from disease and pain since the beginning of their existence, one can only imagine ____________ humans had to endure before the discovery of anesthesia.","0","0","Directions: Fill in the blank with the correct option that fits in grammatically and logically.","3","0","3","the inordinate pain","The tremendous pain","The prominent pain","The crucial pain","1","a032e3afe601527b26b1c3b002034700","0000-00-00 00:00:00","1"
+"49","0","Research consistently shows that regular physical activity, combined with healthy eating habits, is the ____________ and healthful way to control your weight.","0","0","Directions: Fill in the blank with the correct option that fits in grammatically and logically.","3","0","3","Most efficient","best efficient","Most efficiently","Major efficiency","1","069a7d1e73417cba5a68aa44019169c3","0000-00-00 00:00:00","1"
+"50","0","While in society at that time women were subjugated to men, and in no public way seen as their equal, they were, however, objects of beauty and______ in the eyes of Impressionists.","0","0","Directions: Fill in the blank with the correct option that fits in grammatically and logically.","3","0","3","sensuality","Splendor","Introspection","Benevolence","1","759883f9070d649d7eabb58408604078","0000-00-00 00:00:00","1"
+"51","0","The works of artists can be imaginary and may require a lot of talent and special skills, whereas the works of scientists require scientific knowledge and these works are based on ____________ and scientific research.","0","0","Directions: Fill in the blank with the correct option that fits in grammatically and logically.","3","0","3","exercises","hypothesis","experiments","evaluation","1","8e2d0ffc3b54802fb0c1ef093b3ec085","0000-00-00 00:00:00","1"
+"52","0","To many artists, the search for national identity has been a stimulating force; to others it has represented a _____________, betraying the municipal, logical complexity of Australia as a Westernized civilization.","0","0","Directions: Fill in the blank with the correct option that fits in grammatically and logically.","3","0","3","Basic treachery","Blunt parochialism","Broad censure","Base mechanism","1","0bacd7dfe5302993b0c203926c38ca31","0000-00-00 00:00:00","1"
+"53","0","The entire office disliked Maria because she always acted _________________.","0","0","Directions: Fill in the blank with the correct option that fits in grammatically and logically.","3","0","3","High and above","Above and beyond","High and mighty","Above and over","1","70652d499297dee76bc706ccc80d9815","0000-00-00 00:00:00","1"
+"54","0","The manager asked the employees to work _____________ as the project had to be completed and handed over in a couple of days.","0","0","Directions: Fill in the blank with the correct option that fits in grammatically and logically.","3","0","3","On the clock","Before the clock","Above the clock","Against the clock","1","15fe8899430ec557571d9d0d2f4953f3","0000-00-00 00:00:00","1"
+"55","0","<p>Many adults, no matter what their age, respond to adversity by seeking advice only from their parents. Consciously or not, they regress to a psychological state of childhood dependence in which the parent is seen as the only source of wisdom and comfort. Adults, who do not regress to this childhood mode, turn for advice in adversity only to other loved ones &ndash; a spouse or a best friend &ndash; whom they perceive and relate to as peers.</p>
+
+<p>If all the above statements are true,&nbsp;which&nbsp;of&nbsp;the&nbsp;following&nbsp;must&nbsp;be&nbsp;true?</p>","0","0","Directions: For each question in this section, select the best of the answer choices given.","3","0","3","Adults who do not suffer adversity look only to their parents for advice","No adults seek advice in adversity from total strangers","Adults who seek advice in adversity from their parents do not expect to receive wisdom and comfort","Adults who regress to a state of childhood dependence lose touch with their parents.","1","260251a5b07626abe9eba7d5b3ee0d3a","0000-00-00 00:00:00","1"
+"56","0","<p>University systems that use graduation rates to determine which campuses are allotted additional funds, are acting counter to their stated goals. The universities say they are trying to raise academic standards, yet they are actually encouraging campuses to graduate students regardless of achievement.</p>
+<p>Which of the following statements, if true, would help to validate the approach take by the university systems mentioned above?</p>","0","0","Directions: For each question in this section, select the best of the answer choices given.","3","0","3","Graduation rates for university systems with this policy are among the highest in the nation, but the graduates from these systems score poorly on the tests of basic skills.","The campuses that need the additional funds the most are the ones that have the lowest graduation rates","The new funds will be allotted for facility upgrades, not new faculty positions or pay increases for staff.","Graduation examinations currently exist that require every graduate at each university to demonstrate minimum levels of achievement.","1","a75e31af711f90fedee1cf9b088a1d69","0000-00-00 00:00:00","1"
+"57","0","<p>A recent study has concluded that, contrary to the claims of those trying to ban cigarette advertisements altogether, cigarette ads placed on billboards and in magazines have little to no effect on the smoking habits of smokers who view the ads. The study , which surveyed more than 20,000 smokers and solicited their reasons for continuing to smoke, found that practically no one in the survey felt that these advertisements influenced their decision to smoke.</p>
+
+<p>According to the study:</p>
+","0","0","Directions: For each question in this section, select the best of the answer choices given.","3","0","3","People do not switch cigarette brands based on their exposure to cigarette ads on billboards and magazines.","Cigarette ads on billboards and magazines do not encourage nonsmokers to take up the habit.","Banning cigarette ads altogether will encourage people to give up smoking.","People are consciously aware of all the reasons they choose to smoke.","1","ed2dc3bf33b4319b0d11ddf6ea83d0b8","0000-00-00 00:00:00","1"
+"58","0","<p>India&#39;s first mail order catalogue, after an ill-fated venture by Burlington&rsquo;s, titled Elvy has been launched in Delhi, with the promise of moving to other metros by Diwali. The fact that a lot of Indians are still cautious, if not downright skeptical, about innovations that eliminate the touch-feel experience at the time of purchase bothers them. However, the limited shopping time enjoyed by most buyers, works in its favour.</p>
+
+<p>Which of the following assuages their fear?</p>
+","0","0","Directions: For each question in this section, select the best of the answer choices given.","3","0","3","The company has a store/delivery center in Gurgaon where the products can be viewed by those wary of mail order business.","There are only 8 sections in their inaugural issue.","They buy directly from manufacturers avoiding middlemen to ensure that the customers get the best possible price.","They have a hassle-free system for delivery and payment.","1","93da26b6c2eead12b62fe64ee9364141","0000-00-00 00:00:00","1"
+"59","0","<p>Indian mythology is alive again in the form of cartoons. Reading classics is a thing of the past. Cartoons are attention grabbers, and can keep children engrossed for hours. Parents find it a boon as they have no time for bedtime stories.</p>
+<p>Based on the information above, which of the following could be the best assumption?</p>","0","0","Directions: For each question in this section, select the best of the answer choices given.","3","0","3","The only way to revive the reading of classics is to ban cartoons on classics.","Cartoons can actually revive the reading habits with a little encouragement.","Story books can be laid to rest.","Parents themselves don't know the stories.","1","bdd88d8924a37e1fcfdafa8de9764003","0000-00-00 00:00:00","1"
+"60","0","<p>When parents allow their children to spend a large amount of time watching television, those children see many more images of violence than do children who watch very little TV. The more violent images a child sees, the more violent that child will become. The more violent a child is, the more likely the child is to commit crimes as an adult.</p>
+
+<p>If the statements in the passage above are true, which of the following must also be true?</p>
+","0","0","Directions: For each question in this section, select the best of the answer choices given.","3","0","3","If parents did not allow their children to watch TV, juvenile delinquency would be unlikely.","No child will develop an aversion to violence if he or she is permitted to watch TV.","The more parents try to discourage their children from watching TV; the more likely those children are to become criminals.","If a child sees more images of violence on TV, the likelihood of that child committing crimes as an adult increases. ","1","0a27a5911f52d1098c8b8f8e3408da06","0000-00-00 00:00:00","1"
+"61","0","The author feels that Shaw's refutation of 'relativism' is flawed because","61","1","<p>I do not fully agree with Shaw&#39;s disputation against the diversity argument for meta-ethical relativism, in which he states that mere diversity and disagreement on what is considered morally right, is not enough reason to claim that there is no objective truth, nor a standard by which we can try to arrive at it and so there is no reason to worry about the claims of the relativist. The reason that I say &quot;fully&quot; is because, although I do agree that the diversity argument does not entirely rule out the possibility of objective morality, I simply do not feel that this is the argument&#39;s whole intention in the first place. Rather it is claiming that we as a global nation, past and present, will never grasp this objective truth which does raise the question of whether there can be such a thing, and with this I do agree. I will lay out my reasoning by first explaining what the initial claim that the diversity argument for meta-ethical relativism states. Then I will give a brief account of Shaw&#39;s refutation and lastly I will explain how his argument, although it gives good reason as to why relativism may be flawed, does not provide sufficient evidence for a rational person to abandon the diversity argument for meta-ethical relativism a</p>
+
+<p>In other words, there are so many different people with different opinions, not only across cultures and societies but also across time, that it is reasonable to see how moral truth can be considered different for all of these groups. Shaw outlines different theories which intend to weaken the relativist&rsquo;s argument, including those of Naturalism, Intuitionism, and Emotivism, which I might add, are all themselves flawed in some way, but no real conclusion is reached as to how perfectly they prove to fault relativism. But then I ask why a rational person would spend any time defending or relying on something that they cannot fully understand, based on the fact that relativism cannot completely rule out the possibility of objectivity. Moral Relativism, put quite simply, states that there are no objective truths or morals, but that these are conditional and dependent on a number of factors. It has two main claims: a) &quot;there are no universally valid standards&quot; and b) &quot;the validity of moral standards is dependent on cultural acceptance (Conventionalism) or personal choice or commitment (Subjectivism).&quot; Shaw is trying to undermine the meta-ethical diversity theory on the basis that just because we cannot see it does not mean that it&#39;s not there. Take for example the fact that when we discuss diversity in ethics we do not only look at diversity at this present time, but also look back to the past, even in class we discussed cases such as the Nazi&#39;s, surly we cannot sit down and speak to Hitler himself and discuss his moral principles and debate about how we should go about deciphering a new universal moral system.</p>","2","1","3","Of inadequate evidence to convince a person to abandon the argument.","Meta - ethical relativism was considered morally right.","As a global nation we will never understand this objective truth.","We cannot rule out the possibility of objective morality.","1","411cf59d65ffda0aa20e4e880f3c81da","0000-00-00 00:00:00","1"
+"62","0","According to the passage, moral truth is 'relative' because","61","2","<p>I do not fully agree with Shaw&#39;s disputation against the diversity argument for meta-ethical relativism, in which he states that mere diversity and disagreement on what is considered morally right, is not enough reason to claim that there is no objective truth, nor a standard by which we can try to arrive at it and so there is no reason to worry about the claims of the relativist. The reason that I say &quot;fully&quot; is because, although I do agree that the diversity argument does not entirely rule out the possibility of objective morality, I simply do not feel that this is the argument&#39;s whole intention in the first place. Rather it is claiming that we as a global nation, past and present, will never grasp this objective truth which does raise the question of whether there can be such a thing, and with this I do agree. I will lay out my reasoning by first explaining what the initial claim that the diversity argument for meta-ethical relativism states. Then I will give a brief account of Shaw&#39;s refutation and lastly I will explain how his argument, although it gives good reason as to why relativism may be flawed, does not provide sufficient evidence for a rational person to abandon the diversity argument for meta-ethical relativism a</p>
+
+<p>In other words, there are so many different people with different opinions, not only across cultures and societies but also across time, that it is reasonable to see how moral truth can be considered different for all of these groups. Shaw outlines different theories which intend to weaken the relativist&rsquo;s argument, including those of Naturalism, Intuitionism, and Emotivism, which I might add, are all themselves flawed in some way, but no real conclusion is reached as to how perfectly they prove to fault relativism. But then I ask why a rational person would spend any time defending or relying on something that they cannot fully understand, based on the fact that relativism cannot completely rule out the possibility of objectivity. Moral Relativism, put quite simply, states that there are no objective truths or morals, but that these are conditional and dependent on a number of factors. It has two main claims: a) &quot;there are no universally valid standards&quot; and b) &quot;the validity of moral standards is dependent on cultural acceptance (Conventionalism) or personal choice or commitment (Subjectivism).&quot; Shaw is trying to undermine the meta-ethical diversity theory on the basis that just because we cannot see it does not mean that it&#39;s not there. Take for example the fact that when we discuss diversity in ethics we do not only look at diversity at this present time, but also look back to the past, even in class we discussed cases such as the Nazi&#39;s, surly we cannot sit down and speak to Hitler himself and discuss his moral principles and debate about how we should go about deciphering a new universal moral system.</p>","2","1","3","Different views of people have to be honored.","There are so many different people with different opinions across cultures, societies and time.","There is no objective truth.","Truth and reality are the same concepts.","1","a796d65bb7850fa9563eacfbdc65abc3","0000-00-00 00:00:00","1"
+"63","0","The author mentions 'Naturalism, Intuitionism and Emotivism' in order to","61","3","<p>I do not fully agree with Shaw&#39;s disputation against the diversity argument for meta-ethical relativism, in which he states that mere diversity and disagreement on what is considered morally right, is not enough reason to claim that there is no objective truth, nor a standard by which we can try to arrive at it and so there is no reason to worry about the claims of the relativist. The reason that I say &quot;fully&quot; is because, although I do agree that the diversity argument does not entirely rule out the possibility of objective morality, I simply do not feel that this is the argument&#39;s whole intention in the first place. Rather it is claiming that we as a global nation, past and present, will never grasp this objective truth which does raise the question of whether there can be such a thing, and with this I do agree. I will lay out my reasoning by first explaining what the initial claim that the diversity argument for meta-ethical relativism states. Then I will give a brief account of Shaw&#39;s refutation and lastly I will explain how his argument, although it gives good reason as to why relativism may be flawed, does not provide sufficient evidence for a rational person to abandon the diversity argument for meta-ethical relativism a</p>
+
+<p>In other words, there are so many different people with different opinions, not only across cultures and societies but also across time, that it is reasonable to see how moral truth can be considered different for all of these groups. Shaw outlines different theories which intend to weaken the relativist&rsquo;s argument, including those of Naturalism, Intuitionism, and Emotivism, which I might add, are all themselves flawed in some way, but no real conclusion is reached as to how perfectly they prove to fault relativism. But then I ask why a rational person would spend any time defending or relying on something that they cannot fully understand, based on the fact that relativism cannot completely rule out the possibility of objectivity. Moral Relativism, put quite simply, states that there are no objective truths or morals, but that these are conditional and dependent on a number of factors. It has two main claims: a) &quot;there are no universally valid standards&quot; and b) &quot;the validity of moral standards is dependent on cultural acceptance (Conventionalism) or personal choice or commitment (Subjectivism).&quot; Shaw is trying to undermine the meta-ethical diversity theory on the basis that just because we cannot see it does not mean that it&#39;s not there. Take for example the fact that when we discuss diversity in ethics we do not only look at diversity at this present time, but also look back to the past, even in class we discussed cases such as the Nazi&#39;s, surly we cannot sit down and speak to Hitler himself and discuss his moral principles and debate about how we should go about deciphering a new universal moral system.</p>","2","1","3","explain the possibility of objectivity.","State that Shaw outlined them to refute the relativist's argument.","State that these theories are inadequate to describe a process.","explain the intricacies of moral truth.","1","04cd3cbfe376f0828f1eb53e1c19d2f6","0000-00-00 00:00:00","1"
+"64","0","One of the claims made by 'Moral Relativism' is that","61","4","<p>I do not fully agree with Shaw&#39;s disputation against the diversity argument for meta-ethical relativism, in which he states that mere diversity and disagreement on what is considered morally right, is not enough reason to claim that there is no objective truth, nor a standard by which we can try to arrive at it and so there is no reason to worry about the claims of the relativist. The reason that I say &quot;fully&quot; is because, although I do agree that the diversity argument does not entirely rule out the possibility of objective morality, I simply do not feel that this is the argument&#39;s whole intention in the first place. Rather it is claiming that we as a global nation, past and present, will never grasp this objective truth which does raise the question of whether there can be such a thing, and with this I do agree. I will lay out my reasoning by first explaining what the initial claim that the diversity argument for meta-ethical relativism states. Then I will give a brief account of Shaw&#39;s refutation and lastly I will explain how his argument, although it gives good reason as to why relativism may be flawed, does not provide sufficient evidence for a rational person to abandon the diversity argument for meta-ethical relativism a</p>
+
+<p>In other words, there are so many different people with different opinions, not only across cultures and societies but also across time, that it is reasonable to see how moral truth can be considered different for all of these groups. Shaw outlines different theories which intend to weaken the relativist&rsquo;s argument, including those of Naturalism, Intuitionism, and Emotivism, which I might add, are all themselves flawed in some way, but no real conclusion is reached as to how perfectly they prove to fault relativism. But then I ask why a rational person would spend any time defending or relying on something that they cannot fully understand, based on the fact that relativism cannot completely rule out the possibility of objectivity. Moral Relativism, put quite simply, states that there are no objective truths or morals, but that these are conditional and dependent on a number of factors. It has two main claims: a) &quot;there are no universally valid standards&quot; and b) &quot;the validity of moral standards is dependent on cultural acceptance (Conventionalism) or personal choice or commitment (Subjectivism).&quot; Shaw is trying to undermine the meta-ethical diversity theory on the basis that just because we cannot see it does not mean that it&#39;s not there. Take for example the fact that when we discuss diversity in ethics we do not only look at diversity at this present time, but also look back to the past, even in class we discussed cases such as the Nazi&#39;s, surly we cannot sit down and speak to Hitler himself and discuss his moral principles and debate about how we should go about deciphering a new universal moral system.</p>","2","1","3","It is the principal factor in deciphering a new universal system.","There is diversity in ethics only in the present time.","There are no universally valid standards.","It is possible to sit and talk to Hitler.","1","5acecffb94ceb3fa68d304897976e083","0000-00-00 00:00:00","1"
+"65","0","The validity of moral standards is dependent on cultural acceptance, which is otherwise called","61","5","<p>I do not fully agree with Shaw&#39;s disputation against the diversity argument for meta-ethical relativism, in which he states that mere diversity and disagreement on what is considered morally right, is not enough reason to claim that there is no objective truth, nor a standard by which we can try to arrive at it and so there is no reason to worry about the claims of the relativist. The reason that I say &quot;fully&quot; is because, although I do agree that the diversity argument does not entirely rule out the possibility of objective morality, I simply do not feel that this is the argument&#39;s whole intention in the first place. Rather it is claiming that we as a global nation, past and present, will never grasp this objective truth which does raise the question of whether there can be such a thing, and with this I do agree. I will lay out my reasoning by first explaining what the initial claim that the diversity argument for meta-ethical relativism states. Then I will give a brief account of Shaw&#39;s refutation and lastly I will explain how his argument, although it gives good reason as to why relativism may be flawed, does not provide sufficient evidence for a rational person to abandon the diversity argument for meta-ethical relativism a</p>
+
+<p>In other words, there are so many different people with different opinions, not only across cultures and societies but also across time, that it is reasonable to see how moral truth can be considered different for all of these groups. Shaw outlines different theories which intend to weaken the relativist&rsquo;s argument, including those of Naturalism, Intuitionism, and Emotivism, which I might add, are all themselves flawed in some way, but no real conclusion is reached as to how perfectly they prove to fault relativism. But then I ask why a rational person would spend any time defending or relying on something that they cannot fully understand, based on the fact that relativism cannot completely rule out the possibility of objectivity. Moral Relativism, put quite simply, states that there are no objective truths or morals, but that these are conditional and dependent on a number of factors. It has two main claims: a) &quot;there are no universally valid standards&quot; and b) &quot;the validity of moral standards is dependent on cultural acceptance (Conventionalism) or personal choice or commitment (Subjectivism).&quot; Shaw is trying to undermine the meta-ethical diversity theory on the basis that just because we cannot see it does not mean that it&#39;s not there. Take for example the fact that when we discuss diversity in ethics we do not only look at diversity at this present time, but also look back to the past, even in class we discussed cases such as the Nazi&#39;s, surly we cannot sit down and speak to Hitler himself and discuss his moral principles and debate about how we should go about deciphering a new universal moral system.</p>","2","1","3","Objectivism","Subjectivism","Conventionalism","Naturalism.","1","9bd947b6ab0e48ca513bcdc1695e403a","0000-00-00 00:00:00","1"
+"66","0","What is surprising about Peter O'Donnell's investment in UT-Austin?","65","1","<p>IN 2002, Mr. Jackson, an oilman and geologist, left his entire estate worth $232 million to his alma mater, the School of Geosciences at the University of Texas at Austin (UT-Austin). The estate is now worth over $330 million. Before this he had gifted over $40 million to UT-Austin. The late Mr. Jackson never thought this bequeath a donation to the university, but an investment for the future of Texas and in the younger generation. His passion to learn about the earth that gave him so much wealth and his tremendous pride in his alma mater were reflected in this gift.</p>
+
+<p>Surprisingly enough, his gift to UT-Austin is not unusual in the U.S. academic world. Peter O&#39;Donnell, an investor and Wharton School of Business alumnus, envisioned an advanced research group in computational sciences at the intersection of mathematics, science, and engineering to approach science through modelling and simulation. He wanted the best facilities to be established at UT-Austin. The university leased him a piece of land on which he built a state-of-the-art facility at a cost of $30 million and then gifted it to UT-Austin. He never studied at UT-Austin! The benefits of this interdisciplinary research area had no immediate benefit to Mr. O&#39;Donnell. But, he recognised the profound impact it will have on pushing the frontiers of knowledge to solve complex problems computationally, such as developing new composite material, and studying sound waves and underground fluid behaviour. In 2001, colleges and universities in the U.S. raised over $24 billion from individuals, foundations, and corporations. Hewlett and Packard &mdash; co-founders of Hewlett Packard Corporation &mdash; family and foundations have given over $800 million to Stanford University alone. Not to be left behind, Gordon Moore, co-founder of Intel, gave a startling $600 million gift to the California Institute of Technology.</p>
+
+<p>The above gifts are an exception only from the point of dollar figures, but not in the spirit of giving by the hundreds of thousands of individuals and businesses. It is not necessary to be very wealthy to make a difference; thousands of alumni collectively can make a difference. That&#39;s why the total endowment of the top 50 universities in the U.S. is over $160 billion (almost a third of India&#39;s GDP)! Harvard University tops the list with $22 billion followed by Yale ($12.7 billion), Princeton ($10 billion), Stanford (9.92 billion), and UT system (9.4 billion). The dream of all these endowments is to make a better future for the next generation, promote excellence, leave a lasting legacy, and simply give back to the school or community that has given them so much. The culture of supporting educational institutions is deep-rooted in the American psyche. If the U.S. is the land of opportunity and innovations, it didn&#39;t happen accidentally. It has been carved and etched over 300 years by the likes of John Harvard, Leland Stanford, Johns Hopkins, Andrew Carnegie, and Elihu Yale, whose generous gifts created universities in their names, and recently by individuals like Gordon Moore, Hewlett, Packard, Jackson, and O&#39;Donnell. In the early 20th century, Andrew Carnegie, the steel magnate, gave away much of his wealth of nearly $400 million for education and knowledge creation.</p>
+
+<p>Each and every day, new ideas and innovations take shape in U.S. university labs in nanotechnology, bio-informatics, and fuel cells. Corporate America and the world are ready to explore and exploit the innovations and talent. So when we marvel at the Google or Yahoo! search engines, we have to marvel at the research environment at Stanford that provided an opportunity for the founders of these companies to conceptualise, and experiment with, new ideas (incidentally, Stanford received stock and royalties from Google since the technology was developed when its founders were at Stanford). When we think of the Internet, thank U.S. universities for the enormous brainpower and resources committed since the late 1960s.</p>","2","1","3","Peter O'Donnell never studied at UT-Austin.","He built a state-of-the-art facility at a cost of $30 million and then gifted it to UT-Austin.","The benefits of the interdisciplinary research area had no immediate benefit to Mr. O'Donnell.","Surprisingly enough, his gift to UT-Austin is not unusual in the U.S. academic world.","1","b992e290d8c54bd1a7c19eb54a965faa","0000-00-00 00:00:00","1"
+"67","0","The above gifts are an exception only from the point of dollar figures, but not in the spirit of giving by the hundreds of thousands of individuals and businesses.' What does this statement imply?","65","2","<p>IN 2002, Mr. Jackson, an oilman and geologist, left his entire estate worth $232 million to his alma mater, the School of Geosciences at the University of Texas at Austin (UT-Austin). The estate is now worth over $330 million. Before this he had gifted over $40 million to UT-Austin. The late Mr. Jackson never thought this bequeath a donation to the university, but an investment for the future of Texas and in the younger generation. His passion to learn about the earth that gave him so much wealth and his tremendous pride in his alma mater were reflected in this gift.</p>
+
+<p>Surprisingly enough, his gift to UT-Austin is not unusual in the U.S. academic world. Peter O&#39;Donnell, an investor and Wharton School of Business alumnus, envisioned an advanced research group in computational sciences at the intersection of mathematics, science, and engineering to approach science through modelling and simulation. He wanted the best facilities to be established at UT-Austin. The university leased him a piece of land on which he built a state-of-the-art facility at a cost of $30 million and then gifted it to UT-Austin. He never studied at UT-Austin! The benefits of this interdisciplinary research area had no immediate benefit to Mr. O&#39;Donnell. But, he recognised the profound impact it will have on pushing the frontiers of knowledge to solve complex problems computationally, such as developing new composite material, and studying sound waves and underground fluid behaviour. In 2001, colleges and universities in the U.S. raised over $24 billion from individuals, foundations, and corporations. Hewlett and Packard &mdash; co-founders of Hewlett Packard Corporation &mdash; family and foundations have given over $800 million to Stanford University alone. Not to be left behind, Gordon Moore, co-founder of Intel, gave a startling $600 million gift to the California Institute of Technology.</p>
+
+<p>The above gifts are an exception only from the point of dollar figures, but not in the spirit of giving by the hundreds of thousands of individuals and businesses. It is not necessary to be very wealthy to make a difference; thousands of alumni collectively can make a difference. That&#39;s why the total endowment of the top 50 universities in the U.S. is over $160 billion (almost a third of India&#39;s GDP)! Harvard University tops the list with $22 billion followed by Yale ($12.7 billion), Princeton ($10 billion), Stanford (9.92 billion), and UT system (9.4 billion). The dream of all these endowments is to make a better future for the next generation, promote excellence, leave a lasting legacy, and simply give back to the school or community that has given them so much. The culture of supporting educational institutions is deep-rooted in the American psyche. If the U.S. is the land of opportunity and innovations, it didn&#39;t happen accidentally. It has been carved and etched over 300 years by the likes of John Harvard, Leland Stanford, Johns Hopkins, Andrew Carnegie, and Elihu Yale, whose generous gifts created universities in their names, and recently by individuals like Gordon Moore, Hewlett, Packard, Jackson, and O&#39;Donnell. In the early 20th century, Andrew Carnegie, the steel magnate, gave away much of his wealth of nearly $400 million for education and knowledge creation.</p>
+
+<p>Each and every day, new ideas and innovations take shape in U.S. university labs in nanotechnology, bio-informatics, and fuel cells. Corporate America and the world are ready to explore and exploit the innovations and talent. So when we marvel at the Google or Yahoo! search engines, we have to marvel at the research environment at Stanford that provided an opportunity for the founders of these companies to conceptualise, and experiment with, new ideas (incidentally, Stanford received stock and royalties from Google since the technology was developed when its founders were at Stanford). When we think of the Internet, thank U.S. universities for the enormous brainpower and resources committed since the late 1960s.</p>","2","1","3","The US educational system is supported not only by contributions from well known philanthropists, but also by other contributions from individuals and businesses.","The spirit of giving is not measured by figures alone.","A lot of people believe in giving back to their alma maters and universities however small their contributions may be.","All of the above.","1","f6934b84da29dde6bd50fffacd59980c","0000-00-00 00:00:00","1"
+"68","0","What do you think is the theme of the passage?","65","3","<p>IN 2002, Mr. Jackson, an oilman and geologist, left his entire estate worth $232 million to his alma mater, the School of Geosciences at the University of Texas at Austin (UT-Austin). The estate is now worth over $330 million. Before this he had gifted over $40 million to UT-Austin. The late Mr. Jackson never thought this bequeath a donation to the university, but an investment for the future of Texas and in the younger generation. His passion to learn about the earth that gave him so much wealth and his tremendous pride in his alma mater were reflected in this gift.</p>
+
+<p>Surprisingly enough, his gift to UT-Austin is not unusual in the U.S. academic world. Peter O&#39;Donnell, an investor and Wharton School of Business alumnus, envisioned an advanced research group in computational sciences at the intersection of mathematics, science, and engineering to approach science through modelling and simulation. He wanted the best facilities to be established at UT-Austin. The university leased him a piece of land on which he built a state-of-the-art facility at a cost of $30 million and then gifted it to UT-Austin. He never studied at UT-Austin! The benefits of this interdisciplinary research area had no immediate benefit to Mr. O&#39;Donnell. But, he recognised the profound impact it will have on pushing the frontiers of knowledge to solve complex problems computationally, such as developing new composite material, and studying sound waves and underground fluid behaviour. In 2001, colleges and universities in the U.S. raised over $24 billion from individuals, foundations, and corporations. Hewlett and Packard &mdash; co-founders of Hewlett Packard Corporation &mdash; family and foundations have given over $800 million to Stanford University alone. Not to be left behind, Gordon Moore, co-founder of Intel, gave a startling $600 million gift to the California Institute of Technology.</p>
+
+<p>The above gifts are an exception only from the point of dollar figures, but not in the spirit of giving by the hundreds of thousands of individuals and businesses. It is not necessary to be very wealthy to make a difference; thousands of alumni collectively can make a difference. That&#39;s why the total endowment of the top 50 universities in the U.S. is over $160 billion (almost a third of India&#39;s GDP)! Harvard University tops the list with $22 billion followed by Yale ($12.7 billion), Princeton ($10 billion), Stanford (9.92 billion), and UT system (9.4 billion). The dream of all these endowments is to make a better future for the next generation, promote excellence, leave a lasting legacy, and simply give back to the school or community that has given them so much. The culture of supporting educational institutions is deep-rooted in the American psyche. If the U.S. is the land of opportunity and innovations, it didn&#39;t happen accidentally. It has been carved and etched over 300 years by the likes of John Harvard, Leland Stanford, Johns Hopkins, Andrew Carnegie, and Elihu Yale, whose generous gifts created universities in their names, and recently by individuals like Gordon Moore, Hewlett, Packard, Jackson, and O&#39;Donnell. In the early 20th century, Andrew Carnegie, the steel magnate, gave away much of his wealth of nearly $400 million for education and knowledge creation.</p>
+
+<p>Each and every day, new ideas and innovations take shape in U.S. university labs in nanotechnology, bio-informatics, and fuel cells. Corporate America and the world are ready to explore and exploit the innovations and talent. So when we marvel at the Google or Yahoo! search engines, we have to marvel at the research environment at Stanford that provided an opportunity for the founders of these companies to conceptualise, and experiment with, new ideas (incidentally, Stanford received stock and royalties from Google since the technology was developed when its founders were at Stanford). When we think of the Internet, thank U.S. universities for the enormous brainpower and resources committed since the late 1960s.</p>","2","1","3","The financial sources of the American university system.","The financial history of American universities and the patrons.","Alumni contributions that has made research and development, and innovations possible.","The economic successes of the American university alumni.","1","a02b5631dea58c9ea945ff2e92ee8029","0000-00-00 00:00:00","1"
+"69","0","<p>Why does the passage say that the U.S. becoming the land of opportunity and innovations was not an accident?<br />
+A. The foundation had been laid by individuals and philanthropists who gave a part of their wealth to create future wealth through education.<br />
+B. The culture of supporting educational institutions is deep-rooted in the American psyche.<br />
+C. It is thanks to the investments in education, fuelled by the likes of John Harvard, Leland Stanford, etc. that a lot of research and innovation was possible with the U. S academia.","65","4","<p>IN 2002, Mr. Jackson, an oilman and geologist, left his entire estate worth $232 million to his alma mater, the School of Geosciences at the University of Texas at Austin (UT-Austin). The estate is now worth over $330 million. Before this he had gifted over $40 million to UT-Austin. The late Mr. Jackson never thought this bequeath a donation to the university, but an investment for the future of Texas and in the younger generation. His passion to learn about the earth that gave him so much wealth and his tremendous pride in his alma mater were reflected in this gift.</p>
+
+<p>Surprisingly enough, his gift to UT-Austin is not unusual in the U.S. academic world. Peter O&#39;Donnell, an investor and Wharton School of Business alumnus, envisioned an advanced research group in computational sciences at the intersection of mathematics, science, and engineering to approach science through modelling and simulation. He wanted the best facilities to be established at UT-Austin. The university leased him a piece of land on which he built a state-of-the-art facility at a cost of $30 million and then gifted it to UT-Austin. He never studied at UT-Austin! The benefits of this interdisciplinary research area had no immediate benefit to Mr. O&#39;Donnell. But, he recognised the profound impact it will have on pushing the frontiers of knowledge to solve complex problems computationally, such as developing new composite material, and studying sound waves and underground fluid behaviour. In 2001, colleges and universities in the U.S. raised over $24 billion from individuals, foundations, and corporations. Hewlett and Packard &mdash; co-founders of Hewlett Packard Corporation &mdash; family and foundations have given over $800 million to Stanford University alone. Not to be left behind, Gordon Moore, co-founder of Intel, gave a startling $600 million gift to the California Institute of Technology.</p>
+
+<p>The above gifts are an exception only from the point of dollar figures, but not in the spirit of giving by the hundreds of thousands of individuals and businesses. It is not necessary to be very wealthy to make a difference; thousands of alumni collectively can make a difference. That&#39;s why the total endowment of the top 50 universities in the U.S. is over $160 billion (almost a third of India&#39;s GDP)! Harvard University tops the list with $22 billion followed by Yale ($12.7 billion), Princeton ($10 billion), Stanford (9.92 billion), and UT system (9.4 billion). The dream of all these endowments is to make a better future for the next generation, promote excellence, leave a lasting legacy, and simply give back to the school or community that has given them so much. The culture of supporting educational institutions is deep-rooted in the American psyche. If the U.S. is the land of opportunity and innovations, it didn&#39;t happen accidentally. It has been carved and etched over 300 years by the likes of John Harvard, Leland Stanford, Johns Hopkins, Andrew Carnegie, and Elihu Yale, whose generous gifts created universities in their names, and recently by individuals like Gordon Moore, Hewlett, Packard, Jackson, and O&#39;Donnell. In the early 20th century, Andrew Carnegie, the steel magnate, gave away much of his wealth of nearly $400 million for education and knowledge creation.</p>
+
+<p>Each and every day, new ideas and innovations take shape in U.S. university labs in nanotechnology, bio-informatics, and fuel cells. Corporate America and the world are ready to explore and exploit the innovations and talent. So when we marvel at the Google or Yahoo! search engines, we have to marvel at the research environment at Stanford that provided an opportunity for the founders of these companies to conceptualise, and experiment with, new ideas (incidentally, Stanford received stock and royalties from Google since the technology was developed when its founders were at Stanford). When we think of the Internet, thank U.S. universities for the enormous brainpower and resources committed since the late 1960s.</p>","2","1","3","A only","A and C","C only","A and B","1","1fb6bf94e0359f97c57204623ab967ac","0000-00-00 00:00:00","1"
+"70","0","What is implied in the fact that Mr. Jackson never thought this bequeath a donation to the university, but an investment for the future of Texas and in the younger generation?","65","5","<p>IN 2002, Mr. Jackson, an oilman and geologist, left his entire estate worth $232 million to his alma mater, the School of Geosciences at the University of Texas at Austin (UT-Austin). The estate is now worth over $330 million. Before this he had gifted over $40 million to UT-Austin. The late Mr. Jackson never thought this bequeath a donation to the university, but an investment for the future of Texas and in the younger generation. His passion to learn about the earth that gave him so much wealth and his tremendous pride in his alma mater were reflected in this gift.</p>
+
+<p>Surprisingly enough, his gift to UT-Austin is not unusual in the U.S. academic world. Peter O&#39;Donnell, an investor and Wharton School of Business alumnus, envisioned an advanced research group in computational sciences at the intersection of mathematics, science, and engineering to approach science through modelling and simulation. He wanted the best facilities to be established at UT-Austin. The university leased him a piece of land on which he built a state-of-the-art facility at a cost of $30 million and then gifted it to UT-Austin. He never studied at UT-Austin! The benefits of this interdisciplinary research area had no immediate benefit to Mr. O&#39;Donnell. But, he recognised the profound impact it will have on pushing the frontiers of knowledge to solve complex problems computationally, such as developing new composite material, and studying sound waves and underground fluid behaviour. In 2001, colleges and universities in the U.S. raised over $24 billion from individuals, foundations, and corporations. Hewlett and Packard &mdash; co-founders of Hewlett Packard Corporation &mdash; family and foundations have given over $800 million to Stanford University alone. Not to be left behind, Gordon Moore, co-founder of Intel, gave a startling $600 million gift to the California Institute of Technology.</p>
+
+<p>The above gifts are an exception only from the point of dollar figures, but not in the spirit of giving by the hundreds of thousands of individuals and businesses. It is not necessary to be very wealthy to make a difference; thousands of alumni collectively can make a difference. That&#39;s why the total endowment of the top 50 universities in the U.S. is over $160 billion (almost a third of India&#39;s GDP)! Harvard University tops the list with $22 billion followed by Yale ($12.7 billion), Princeton ($10 billion), Stanford (9.92 billion), and UT system (9.4 billion). The dream of all these endowments is to make a better future for the next generation, promote excellence, leave a lasting legacy, and simply give back to the school or community that has given them so much. The culture of supporting educational institutions is deep-rooted in the American psyche. If the U.S. is the land of opportunity and innovations, it didn&#39;t happen accidentally. It has been carved and etched over 300 years by the likes of John Harvard, Leland Stanford, Johns Hopkins, Andrew Carnegie, and Elihu Yale, whose generous gifts created universities in their names, and recently by individuals like Gordon Moore, Hewlett, Packard, Jackson, and O&#39;Donnell. In the early 20th century, Andrew Carnegie, the steel magnate, gave away much of his wealth of nearly $400 million for education and knowledge creation.</p>
+
+<p>Each and every day, new ideas and innovations take shape in U.S. university labs in nanotechnology, bio-informatics, and fuel cells. Corporate America and the world are ready to explore and exploit the innovations and talent. So when we marvel at the Google or Yahoo! search engines, we have to marvel at the research environment at Stanford that provided an opportunity for the founders of these companies to conceptualise, and experiment with, new ideas (incidentally, Stanford received stock and royalties from Google since the technology was developed when its founders were at Stanford). When we think of the Internet, thank U.S. universities for the enormous brainpower and resources committed since the late 1960s.</p>","2","1","3","Mr. Jackson believed that his contribution would lay the foundation for the betterment of Texas and the education of the youngsters.","Mr. Jackson believed it to be more of a voluntary gift than a mere donation.","He aimed at instilling the same passion for geosciences among the youngsters by luring them with scholarships.","Mr. Jackson was eternally grateful to his alma mater, which helped him earn his wealth.","1","cd472a254b00fa290a6d39464b2b5ec2","0000-00-00 00:00:00","1"

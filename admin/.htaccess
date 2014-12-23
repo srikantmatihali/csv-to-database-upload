@@ -1,0 +1,9 @@
+DirectoryIndex index.php
+RewriteEngine on
+RewriteCond $1 !^(index\.php|images|css|js|robots\.txt|favicon\.ico)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ ./index.php/$1 [L,QSA] 
+
+#RewriteCond %{HTTP_HOST} !^www\.
+#RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/push-the-pin/$1 [R=301,L]
